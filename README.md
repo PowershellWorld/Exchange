@@ -13,6 +13,6 @@ Once in a while there will be an update and the version number wil change.
 
 ### Latest Versions
 
-| Script | Version | Date |
-| --- | --- | --- |
-| Set-SSLCert-Exchangeserver.ps1 | v0.1 | 25-02-2020|
+| Script | Old Version | New Version | Date |
+| --- | --- | --- | --- |
+| Set-SSLCert-Exchangeserver.ps1 |  | 0.1 | 25-02-2020|
