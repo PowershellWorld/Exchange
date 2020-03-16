@@ -31,5 +31,5 @@ $EXserver = Get-ExchangeServer | Where {($_.AdminDisplayVersion -Like "Version 1
 
 Foreach ($server in $EXserver)
  {
-New-ExchangeCertificate -GenerateRequest -RequestFile $CertPath -FriendlyName “$server” -SubjectName $SubjectName -DomainName $DomainName
+New-ExchangeCertificate -GenerateRequest -RequestFile $CertPath -FriendlyName $server -SubjectName $SubjectName -DomainName $DomainName
 }
