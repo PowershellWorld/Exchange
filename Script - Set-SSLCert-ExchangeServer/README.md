@@ -13,7 +13,9 @@ Add SSL Certificate to explicit version of Exchange with MailboxRole
 run Set-SSLCert-ExchangeServer.ps1 after you filled in the variables: 
 
 $CertPath = " "
+
 $SubjectName = " "
+
 $DomainName = " "
 
 
