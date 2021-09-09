@@ -16,4 +16,4 @@ Once in a while there will be an update and the version number wil change.
 | Script | Old Version | New Version | Date | NickName |
 | --- | --- | --- | --- | --- |
 | Set-SSLCert-Exchangeserver.ps1 |  | 0.1 | 25-02-2020| PowerShellDude|
-| Script-ExchangeOnPremInventory.ps1 | 1.1.2 | 09-09-2021 | Alex ter Neuzen|
+| Script-ExchangeOnPremInventory.ps1 | | 1.1.2 | 09-09-2021 | Alex ter Neuzen|
